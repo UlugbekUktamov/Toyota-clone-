@@ -1,0 +1,66 @@
+header {
+    margin: 1rem;
+}
+
+.navbar a {
+    color: #000 !important;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.dropdown-menu-1 {
+    position: fixed;
+    top: 60px !important;
+    left: -725px !important;
+    width: 1245.57%;
+}
+
+.card {
+    margin: 0 auto;
+}
+
+.content-2 .col-md-8 {
+    color: #fff !important;
+    padding-left: 2rem;
+}
+
+.content-2 .col-md-8 .d-flex {
+    padding-left: 1rem;
+    gap: 3rem;
+}
+
+.content-2 .carousel-item:nth-child(1) .col-md-8 {
+    background-color: #794E41;
+}
+
+.content-2 .carousel-item:nth-child(2) .col-md-8 {
+    background-color: #414023;
+}
+
+.content-2 .carousel-item:nth-child(3) .col-md-8 {
+    background-color: #192E41;
+}
+
+.content-2 .carousel-item:nth-child(4) .col-md-8 {
+    background-color: #484252;
+}
+
+.content-2 .carousel-item:nth-child(5) .col-md-8 {
+    background-color: #5E5549;
+}
+
+.content-2 .carousel-item:nth-child(6) .col-md-8 {
+    background-color: #595B34;
+}
+
+.content-2 .carousel-item:nth-child(7) .col-md-8 {
+    background-color: #272329;
+}
+
+.content-2 .carousel-item:nth-child(8) .col-md-8 {
+    background-color: #735C52;
+}
+
+.content-2 .carousel-item:nth-child(9) .col-md-8 {
+    background-color: #E84314;
+}
